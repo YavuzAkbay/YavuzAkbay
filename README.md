@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YavuzAkbay
+- 💼 I work as Data Analyst
 - 👀 I’m interested in Finance
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me akbay.yavuz@gmail.com
+- 👨‍💻 I’m currently coding SQL, Python 
 
 <!---
 YavuzAkbay/YavuzAkbay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
