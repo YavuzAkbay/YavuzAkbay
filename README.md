@@ -4,4 +4,4 @@
 
 👋 Hi, I'm Yavuz Akbay, a passionate quantitative analyst currently pursuing a master's degree in Economics at Osnabrück University, Germany.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YavuzAkbay&show_icons=true&theme=transparent)
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YavuzAkbay&show_icons=true&theme=transparent)
