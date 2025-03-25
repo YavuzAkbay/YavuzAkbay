@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akbay.yavuz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XNZjWf1SdRiS0gGFNbDbl9LhxiH_kSoO/view?usp=sharing](https://drive.google.com/file/d/1XNZjWf1SdRiS0gGFNbDbl9LhxiH_kSoO/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yavuzakbay/](https://www.linkedin.com/in/yavuzakbay/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
