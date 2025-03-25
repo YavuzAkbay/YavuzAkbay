@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 📝 I regularly write articles on [[https://seekingalpha.com/author/yavuz-akbay](https://seekingalpha.com/author/yavuz-akbay)
+- 📝 I regularly write articles on [https://seekingalpha.com/author/yavuz-akbay](https://seekingalpha.com/author/yavuz-akbay)
 
 - 💬 Ask me about **Pine Script and Python (Data analysis libs)**
 
