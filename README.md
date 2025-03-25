@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👨‍💻 All of my projects are available at [www.yavuzakbay.com](www.yavuzakbay.com)
-
-- 📝 I regularly write articles on [www.yavuzakbay.com/blogs](www.yavuzakbay.com/blogs)
+- 📝 I regularly write articles on [[www.yavuzakbay.com/blogs](www.yavuzakbay.com/blogs)](https://seekingalpha.com/author/yavuz-akbay)
 
 - 💬 Ask me about **Pine Script and Python (Data analysis libs)**
 
