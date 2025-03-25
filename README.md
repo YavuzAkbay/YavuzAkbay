@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yavuz Akbay</h1>
-<h3 align="center">A passionate quantitative analyst currently pursuing a master's degree in Economics at Osnabrück University, Germany.</h3>
+<h3 align="center">A passionate quantitative analyst currently pursuing a master's degree in Economics and writing at Seeking Alpha</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yavuzakbay" alt="yavuzakbay" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/econakbay" target="blank"><img src="https://img.shields.io/twitter/follow/econakbay?logo=twitter&style=for-the-badge" alt="econakbay" /></a> </p>
 
 - 🔭 I’m currently working on **Financial Analyst AI**
 
