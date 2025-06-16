@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yavuz Akbay</h1>
-<h3 align="center">A passionate quantitative analyst currently pursuing a master's degree in Economics and writing at Seeking Alpha</h3>
+<h3 align="center">A passionate quantitative analyst currently writing at Seeking Alpha</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yavuzakbay" alt="yavuzakbay" /></a> </p>
 
