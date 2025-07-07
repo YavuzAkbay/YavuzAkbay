@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yavuzakbay" alt="yavuzakbay" /></a> </p>
 
-- 🔭 I’m currently working on **Financial Analyst AI**
+- 🔭 I’m currently working on **Macrovise**
 
 - 🌱 I’m currently learning **PyTorch**
 
