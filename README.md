@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yavuz Akbay</h1>
 <h3 align="center">A passionate quantitative analyst and part time developer</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yavuzakbay" alt="yavuzakbay" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=YavuzAkbay)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Macrovise**
 
