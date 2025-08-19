@@ -20,4 +20,4 @@
 <a href="https://instagram.com/akbayavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbayavuz" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=gray)
+![](https://komarev.com/ghpvc/?username=YavuzAkbay&color=gray)
