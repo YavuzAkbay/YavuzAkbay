@@ -13,6 +13,4 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yavuzakbay/](https://www.linkedin.com/in/yavuzakbay/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YavuzAkbay)](https://github.com/YavuzAkbay/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=YavuzAkbay&color=gray)
