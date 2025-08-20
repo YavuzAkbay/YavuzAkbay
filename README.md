@@ -13,5 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yavuzakbay/](https://www.linkedin.com/in/yavuzakbay/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YavuzAkbay)](https://github.com/YavuzAkbay/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=YavuzAkbay&color=gray)
