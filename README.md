@@ -13,6 +13,4 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yavuzakbay/](https://www.linkedin.com/in/yavuzakbay/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YavuzAkbay&langs_count=8)
-
 ![](https://komarev.com/ghpvc/?username=YavuzAkbay&color=gray)
