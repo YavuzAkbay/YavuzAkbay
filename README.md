@@ -13,4 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yavuzakbay/](https://www.linkedin.com/in/yavuzakbay/)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YavuzAkbay&theme=github_dark)
+
+
 ![](https://komarev.com/ghpvc/?username=YavuzAkbay&color=gray)
