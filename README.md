@@ -22,7 +22,7 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YavuzAkbay&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YavuzAkbay&rank=SSS,SS,S,AAA,AA,A&theme=darkhub)](https://github.com/YavuzAkbay/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YavuzAkbay&rank=SSS,SS,S,AAA,AA,A&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>Contact Me</h2>
 
