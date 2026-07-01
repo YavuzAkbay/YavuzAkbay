@@ -22,13 +22,6 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YavuzAkbay&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YavuzAkbay&rank=SSS,SS,S,AAA,AA,A&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h2>Contact Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yavuzakbay/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbay.yavuz@gmail.com)
-<!-- vibestats-start -->
-[![vibestats](https://raw.githubusercontent.com/YavuzAkbay/YavuzAkbay/main/vibestats/heatmap.svg)](https://vibestats.dev/YavuzAkbay)
-
-[View interactive dashboard →](https://vibestats.dev/YavuzAkbay)
-<!-- vibestats-end -->
