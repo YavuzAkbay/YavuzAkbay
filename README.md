@@ -16,4 +16,4 @@ I spend my days modelling financial markets and my evenings building software, e
 - Building tools that make ideas tangible
 - Learning from interesting codebases
 
-> Markets are my profession. Software is my craft.
+> Curiosity is my favourite framework.
