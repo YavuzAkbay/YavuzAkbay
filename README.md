@@ -1,7 +1,5 @@
 # Yavuz Akbay
 
-Quantitative Analyst.
-
 I spend my days modelling financial markets and my evenings building software, exploring AI and contributing to open source.
 
 **Interests**
