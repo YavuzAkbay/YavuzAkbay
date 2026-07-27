@@ -1,19 +1,19 @@
 # Yavuz Akbay
 
-Software Engineer.
+Quantitative Analyst.
 
-I enjoy building software that is simple, scalable and pleasant to use.
+I spend my days modelling financial markets and my evenings building software, exploring AI and contributing to open source.
 
-**Current Focus**
+**Interests**
 
-- Full-stack development
-- AI applications
-- Backend engineering
+- Quantitative Finance
+- Artificial Intelligence
 - Open Source
 
-**Stack**
+**Currently**
 
-`TypeScript` `React` `Next.js` `Node.js`
-`Python` `PostgreSQL` `Docker`
+- Researching systematic investment strategies
+- Building tools that make ideas tangible
+- Learning from interesting codebases
 
-Reach me on LinkedIn or by email.
+> Markets are my profession. Software is my craft.
